@@ -126,10 +126,10 @@ textarea::placeholder {
 }
 
 
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:1024px) {
     
 body{
-    width: 350px;
+    width: 100%;
     height: 100%;
     background-size: cover;
     background-position: center;
